@@ -1,0 +1,16 @@
+{
+  "name": "path-creator",
+  "version": "1.0.0",
+  "description": "creates a specific path",
+  "main": "path.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mircea Salan",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^10.12.12",
+    "typescript": "^3.2.2"
+  }
+}
